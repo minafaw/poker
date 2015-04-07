@@ -1,0 +1,1 @@
+Card game in which players bet on the value of the card combination in their possession, by placing a bet into a central pot.
